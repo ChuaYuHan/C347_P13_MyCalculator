@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     var divide = false
     var percent = false
     var negative = false
+    var enabled = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
